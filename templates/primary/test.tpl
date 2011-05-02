@@ -1,1 +1,1 @@
-Hello Marc!
+Hello Marc! I am a template.
